@@ -8,7 +8,7 @@ certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
 client-python==0.1.0
-cryptography==2.6.1
+cryptography==3.2
 entrypoints==0.3
 execnet==1.6.0
 filelock==3.0.12
